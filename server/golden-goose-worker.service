@@ -1,0 +1,13 @@
+[Unit]
+Description=Golden Goose Print Worker
+After=network.target postgresql.service golden-goose-api.service
+
+[Service]
+User=ntvelop
+WorkingDirectory=/home/ntvelop/GoldenGooseServer
+ExecStart=/usr/bin/python3 print_worker.py
+Restart=always
+EnvironmentFile=/home/ntvelop/GoldenGooseServer/.env
+
+[Install]
+WantedBy=multi-user.target

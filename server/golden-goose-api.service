@@ -1,0 +1,13 @@
+[Unit]
+Description=Golden Goose POS API
+After=network.target postgresql.service
+
+[Service]
+User=ntvelop
+WorkingDirectory=/home/ntvelop/GoldenGooseServer
+ExecStart=/home/ntvelop/GoldenGooseServer/.venv/bin/python -m uvicorn app.main:app --host 0.0.0.0 --port 8000
+Restart=always
+EnvironmentFile=/home/ntvelop/GoldenGooseServer/.env
+
+[Install]
+WantedBy=multi-user.target

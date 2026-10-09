@@ -1,0 +1,12 @@
+[Unit]
+Description=GoldenGoosePOS Print Worker
+After=network.target postgresql.service cups.service
+
+[Service]
+User=ntvelop
+WorkingDirectory=/home/ntvelop/goldengoose/server
+ExecStart=/home/ntvelop/goldengoose/server/venv/bin/python print_worker.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

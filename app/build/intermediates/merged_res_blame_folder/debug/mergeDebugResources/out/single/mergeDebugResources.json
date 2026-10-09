@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/xml_backup_rules.xml.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-hdpi_ic_briki_round.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-hdpi/ic_briki_round.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xxhdpi_ic_briki_foreground.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xxhdpi/ic_briki_foreground.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xhdpi_ic_briki_round.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xhdpi/ic_briki_round.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xxhdpi_ic_briki.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xxhdpi/ic_briki.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-mdpi_ic_briki_foreground.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-mdpi/ic_briki_foreground.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-hdpi_ic_briki.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-hdpi/ic_briki.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-hdpi_ic_briki_foreground.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-hdpi/ic_briki_foreground.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-mdpi_ic_briki_round.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-mdpi/ic_briki_round.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/xml_network_security_config.xml.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-mdpi_ic_briki.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-mdpi/ic_briki.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xhdpi_ic_briki_foreground.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xhdpi/ic_briki_foreground.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xxxhdpi_ic_briki_foreground.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xxxhdpi/ic_briki_foreground.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xxxhdpi_ic_briki_round.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xxxhdpi/ic_briki_round.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xxxhdpi_ic_briki.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xxxhdpi/ic_briki.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/drawable_briki_logo.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/drawable/briki_logo.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xxhdpi_ic_briki_round.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xxhdpi/ic_briki_round.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/drawable_ic_briki_background.xml.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/drawable/ic_briki_background.xml"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/drawable_ntvelop_logo.jpg.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/drawable/ntvelop_logo.jpg"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-anydpi-v26_ic_briki.xml.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-anydpi-v26/ic_briki.xml"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-anydpi-v26_ic_briki_round.xml.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-anydpi-v26/ic_briki_round.xml"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/mipmap-xhdpi_ic_briki.png.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/mipmap-xhdpi/ic_briki.png"
+    },
+    {
+        "merged": "com.ntvelop.goldengoosepda.app-debug-57:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ntvelop.goldengoosepda.app-main-59:/drawable/ic_launcher_foreground.xml"
+    }
+]
